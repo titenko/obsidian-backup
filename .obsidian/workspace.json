@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "edd6dd021cd414d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "182bcfa71d1eacc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dde0a0a7c5589d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f048c295f1cf9826",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e3963ff9a3f54c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "447aa1245c25d2a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6112430ba65d65eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dd992c1b09f713d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d53cace48e1cb69e",
+    "type": "split",
+    "children": [
+      {
+        "id": "18dedaaaf3d3b66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98ea7ab10d0d988a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Navigation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "433eb84b3b8e4a7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Navigation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07e2465ffebec602",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53e06c05d5216857",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Navigation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "9dde0a0a7c5589d1",
+  "lastOpenFiles": [
+    "MacOs/Добавление цифровой подписи.md",
+    "Navigation.md",
+    "MacOs/Ошибки при установке приложений на Мак.md",
+    "MacOs/Отключение функции Gatekeeper в macOS.md",
+    "Img/MacOS/1580584211_prilozhenie-neudaetsja-otkryt-tak-kak-ono-bylo-zagruzheno-neizappstore.png",
+    "MacOs/Что такое SIP и как его отключить?.md",
+    "Img/MacOS",
+    "Img/Папка",
+    "Без названия.canvas",
+    "![[pkg2app_v1_1_0.dmg]].md",
+    "files/pkg2app_v1_1_0.dmg",
+    "files",
+    "Папка",
+    "Img/MacOS/1618141253_restart.png",
+    "Img/MacOS/1618117995_terminal.png",
+    "Img/MacOS/1618118001_utilities.png",
+    "Img/MacOS/1629181379_earth.png",
+    "Img/MacOS/1618036587_sip.png",
+    "MacOs/Ошибки при установке приложений на Мак/Ошибки при установке приложений на Мак.md",
+    "Img/MacOS/1585155160_neozhidannoe-zavershenie-prilozhenija.png",
+    "Img/MacOS/1647079055_1647079055273.png",
+    "Img/MacOS/1580742169_3.png",
+    "Img/MacOS/1580741673_2.png",
+    "Linux/Без названия.md",
+    "MacOs/Ошибки при установке приложений на Мак",
+    "MacOs",
+    "Linux",
+    "Img"
+  ]
+}
